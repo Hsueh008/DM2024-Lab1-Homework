@@ -1,0 +1,323 @@
+find:9
+down:9
+few:9
+its:9
+sure:9
+player:9
+left:9
+together:9
+along:9
+tv:9
+until:9
+yes:9
+records:9
+place:9
+right:9
+karen:9
+didn:10
+also:10
+into:10
+god:10
+home:10
+amazing:10
+awesome:10
+60s:10
+kind:10
+real:10
+use:10
+14:10
+changed:10
+hit:10
+friends:10
+younger:10
+teen:10
+40:10
+friend:10
+bringing:10
+knew:10
+once:10
+summer:10
+before:11
+words:11
+tune:11
+born:11
+house:11
+late:11
+remind:11
+going:11
+want:11
+big:11
+other:11
+classic:11
+which:11
+lost:11
+went:11
+here:11
+brother:11
+through:11
+night:11
+nice:11
+older:11
+1963:11
+car:11
+around:12
+grew:12
+grew	up:11
+people:12
+your:12
+fantastic:12
+forever:12
+name:12
+70s:12
+youth:12
+dancing:12
+80s:12
+50:12
+their:12
+sister:12
+age:13
+think:13
+rip:13
+while:13
+last:13
+10:13
+eyes:13
+lyrics:13
+even:13
+80:13
+later:14
+make:14
+hearing:14
+missed:14
+made:14
+country:14
+during:14
+growing:14
+growing	up:13
+tears:14
+brought:14
+take:14
+don:14
+do:15
+dance:15
+singer:15
+father:15
+too:15
+boy:15
+see:15
+where:15
+yesterday:15
+sang:15
+man:15
+past:15
+listened:16
+lot:16
+if:16
+live:16
+world:16
+died:16
+gone:16
+mother:16
+nostalgia:16
+feel:16
+most:17
+us:17
+come:17
+wow:17
+2019:17
+teenager:18
+heart:18
+record:18
+60:18
+get:18
+more:18
+know:18
+oh:18
+no:19
+reeves:19
+reeves	jim:17
+because:19
+cry:19
+nostalgic:19
+parents:19
+being:19
+way:19
+early:20
+well:20
+did:20
+lovely:20
+girl:20
+sweet:21
+got:21
+over:21
+70:21
+been:21
+been	have:14
+since:22
+since	have:9
+high:22
+high	school:20
+playing:22
+memory:23
+bring:23
+long:23
+sad:23
+child:24
+year:24
+jim:25
+jim	his:9
+away:25
+away	passed:13
+by:25
+has:25
+today:25
+about:25
+could:25
+could	wish:15
+kid:26
+only:26
+such:26
+them:26
+or:26
+wish:26
+singing:27
+mom:27
+mom	dad:9
+an:28
+an	had:9
+ever:28
+ever	best:9
+came:28
+came	out:16
+some:28
+would:28
+would	sing:9
+will:28
+will	never:9
+will	be:11
+will	always:12
+go:28
+day:28
+day	have:10
+little:29
+mum:29
+mum	dad:11
+takes:30
+favorite:30
+passed:30
+passed	he:10
+after:30
+our:31
+makes:31
+wonderful:31
+who:32
+who	have:10
+there:32
+there	are:10
+there	have:12
+play:33
+play	used:11
+really:33
+radio:34
+life:35
+then:36
+then	had:9
+ago:36
+again:36
+thanks:36
+how:37
+how	had:10
+they:37
+they	never:11
+they	are:11
+they	were:14
+happy:37
+out:38
+out	have:11
+out	just:12
+him:39
+him	always:9
+him	his:13
+him	he:17
+are:39
+are	these:10
+sing:39
+sing	dad:9
+sing	she:9
+sing	used:16
+thank:39
+thank	much:9
+best:39
+not:40
+not	just:9
+very:40
+very	much:9
+very	had:10
+played:41
+what:41
+these:42
+hear:43
+she:43
+she	just:9
+those:43
+those	just:9
+listen:43
+listen	just:9
+his:44
+his	voice:9
+his	one:9
+his	have:10
+his	he:16
+were:44
+every:44
+can:44
+can	be:9
+can	first:9
+can	never:10
+young:44
+heard:45
+heard	just:9
+heard	have:10
+heard	first:17
+times:45
+never:46
+never	be:10
+used:46
+am:46
+am	have:9
+be:46
+be	voice:10
+be	always:10
+voice:47
+voice	had:9
+one:47
+school:49
+like:50
+like	just:11
+dad:50
+dad	always:10
+dad	much:10
+he:50
+he	had:10
+he	much:11
+he	have:11
+he	dad:13
+he	always:14
+up:51
+loved:52
+loved	have:9
+loved	much:10
+much:55
+much	had:14
+listening:58
+had:59
+had	just:9
+had	have:10
+many:61
+many	have:9
+first:61
+always:62
+always	have:9
+have:64
+just:64
+just	have:10
